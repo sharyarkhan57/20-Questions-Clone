@@ -1,4 +1,3 @@
-//Sharyar Khan				ID: 110677446			Homework 5
 
 
 import java.io.File;
